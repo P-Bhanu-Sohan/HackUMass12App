@@ -1,1 +1,1 @@
-HackUMass Nutirtion Suggestions App 
+UMass Eats
