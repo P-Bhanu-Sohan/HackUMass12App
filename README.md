@@ -23,7 +23,8 @@
 
 ##Challenges we faced
 
-- Facing a steep learning curve when learning about OpenAI agents and using their API.
+- Facing a steep learning curve when learning about OpenAI agents and using their API.<img width="1121" alt="original" src="https://github.com/user-attachments/assets/e5a9b7b9-ec18-4f15-a058-39e7d154ee22">
+
 - Preventing Hallucinations in the chatbot
 - Ensuring that the RAG was implemented properly.
 
