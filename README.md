@@ -31,9 +31,13 @@
 ## Accomplishments we are proud of
 
 -We learnt a lot of new technology
+
 -Using a Web scraper 
+
 -Using GenAI agents 
-- Using a vectorDB.
+
+- Using a vectorDB
+  
 - We are proud of being able to create an MVP in a short time span.
 
 ##We learnt how to:
