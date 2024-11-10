@@ -1,10 +1,10 @@
 ## Inspiration
 
--Navigating through the UMass Dining app to find Indian cuisine was frustrating and time-consuming. We were inspired to create a more efficient experience for users who want to easily find food options based on their preferences. We ask the user for their location to suggest a dining common which is nearby by walk.
+-As fans of Indian food, going through the menus of all four dining commons to find when Indian cuisine was being served was frustrating. In addition, constructing a customized meal plan based on nutritional preferences is often tedious for users. We were inspired to create a more efficient and one-stop solution for users who want to easily find food options based on their very customised preferences. For additional convenience and customisation, we also ask the user for their location to suggest a dining common which is closest to them. 
 
 
 ##What it does
--The UMass Eats chatbot recommends meals to users based on their personal preferences, making it easier to find the food they love.
+-The UMass Eats chatbot recommends meals/meal plans to users based on their personal preferences and nutritional constraints, helping them eat the food they love. 
 
 
 
@@ -21,11 +21,14 @@
 -Used to create the UI for the chatbot.
 - Allowed us to create a simple chat interface for the user
 
+<img width="1121" alt="original" src="https://github.com/user-attachments/assets/e5a9b7b9-ec18-4f15-a058-39e7d154ee22">
+
 ##Challenges we faced
 
-- Facing a steep learning curve when learning about OpenAI agents and using their API.<img width="1121" alt="original" src="https://github.com/user-attachments/assets/e5a9b7b9-ec18-4f15-a058-39e7d154ee22">
+- Facing a steep learning curve when learning about OpenAI agents and using their API.
 
 - Preventing Hallucinations in the chatbot
+  
 - Ensuring that the RAG was implemented properly.
 
 ## Accomplishments we are proud of
