@@ -2,13 +2,13 @@
 
 -As fans of Indian food, going through the menus of all four dining commons to find when Indian cuisine was being served was frustrating. In addition, constructing a customized meal plan based on nutritional preferences is often tedious for users. We were inspired to create a more efficient and one-stop solution for users who want to easily find food options based on their very customised preferences. For additional convenience and customisation, we also ask the user for their location to suggest a dining common which is closest to them. 
 
-Video Demo
+## Video Demo
 https://www.youtube.com/watch?v=tr5Fs6HPL24
 
 
 
 
-##What it does
+## What it does
 -The UMass Eats chatbot recommends meals/meal plans to users based on their personal preferences and nutritional constraints, helping them eat the food they love. 
 
 
@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=tr5Fs6HPL24
 
 <img width="1121" alt="original" src="https://github.com/user-attachments/assets/e5a9b7b9-ec18-4f15-a058-39e7d154ee22">
 
-##Challenges we faced
+## Challenges we faced
 
 - Facing a steep learning curve when learning about OpenAI agents and using their API.
 
